@@ -1,0 +1,16 @@
+#Butilca Rares
+
+About:
+
+    This is an implementation of a Car Race game using the gfx-framework presented in the README inside the folder gfx-framework-master + CarRace.
+    My implementation of the game can be found at the path gfx-framework-master + CarRace/src/lab-m1/Tema2.
+    To open the project, open the main folder in VisualStudio or use the .sln file in gfx-framework-master + CarRace/build.
+
+Gameplay:
+
+    In this game you will control a car using W,A,S,D to move on a track.
+    You cannot leave the track, so you will be limited to moving back and forth on it.
+    On the track other cars will move on a pre-established route.
+    Whenever a collision happens, you will not be able to move the car in the direction of the obstacle.
+    Thus, you will have to back away from the car that you hit in order to be able to move again.
+    The finish line passing hasn't been implemented, so in this game you will only move freely on the track and try to avoid the other cars.
